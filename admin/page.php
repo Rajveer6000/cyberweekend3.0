@@ -160,7 +160,7 @@ if ($_SESSION['signedIn'] == true) {
                         <h5><span class="big font-weight-sbold">Event detail</span></h5>
                         <div class="event-detail">
                             <p class="event-detail-time big">
-                                <time data-splitting datetime="2019-01-05">April 30 - May 1, 2022</time>
+                                <time data-splitting datetime="2019-01-05">May 11 - May 12, 2024</time>
                             </p>
                             <p class="event-detail-address big" data-splitting>
                                 Department of Computer Science & Engineering, Tezpur University, Nilachal Path, Napaam, Puniani Gaon,
@@ -185,9 +185,9 @@ if ($_SESSION['signedIn'] == true) {
                     </span>
                     <span>&nbsp;</span>
                     <span>by</span>
-                    <a href="#">
-                        Team Navalogy
-                    </a>
+                    <a href="https://navalogy.com/">
+          Team Navalogy
+        </a>
                 </p>
             </div>
         </footer>

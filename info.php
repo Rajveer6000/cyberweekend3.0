@@ -108,7 +108,7 @@
         if ($numRows == 1) {
             $row = mysqli_fetch_assoc($res);
             $info = $row['edsc'];
-            
+
             echo '
 
 
@@ -201,7 +201,7 @@
                         <h5><span class="big font-weight-sbold">Event detail</span></h5>
                         <div class="event-detail">
                             <p class="event-detail-time big">
-                                <time data-splitting datetime="2019-01-05">April 30 - May 1, 2022</time>
+                                <time data-splitting datetime="2019-01-05">May 11 - May 12, 2024</time>
                             </p>
                             <p class="event-detail-address big" data-splitting>
                                 Department of Computer Science & Engineering, Tezpur University, Nilachal Path, Napaam,
@@ -230,7 +230,7 @@
                     </span>
                     <span>&nbsp;</span>
                     <span>by</span>
-                    <a href="admin/admin.html">
+                    <a href="ahttps://navalogy.com/">
                         Team Navalogy
                     </a>
                 </p>
