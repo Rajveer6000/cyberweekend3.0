@@ -43,11 +43,7 @@ CREATE TABLE `oquiz` (
 --
 
 INSERT INTO `oquiz` (`sno`, `temail`, `tname`, `trollno`, `tdept`, `m1name`, `m1rollno`, `timestamp`) VALUES
-(5, 'msb21007@tezu.ac.in', 'Rishita Kalita', 'MSB21007', 'Mathematical Sciences', 'Adwip Kashyap', 'MSI20012', '2022-04-29 10:52:47'),
-(6, 'cse20006@tezu.ac.in', 'Bijoy Mogor', 'CSE20006', 'CSE', 'prabar das', 'ene20021@tezu.ac.in', '2022-04-29 16:02:03'),
-(7, 'meb21038@tezu.ac.in', 'Jyotirmoy Kashyap', 'MEB21038', 'Mechanical Engineering', 'HIMANGSHU LAHKAR', 'ECB21013', '2022-04-29 16:47:33');
 
---
 -- Indexes for dumped tables
 --
 

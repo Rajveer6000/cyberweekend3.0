@@ -42,13 +42,7 @@ CREATE TABLE `iothon` (
 --
 
 INSERT INTO `iothon` (`sno`, `teamname`, `temail`, `tname`, `trollno`, `tdept`, `timestamp`) VALUES
-(2, 'robotics', 'eco20003@tezu.ac.in', 'Rajjul Hussain', 'eco20003', 'ECE', '2022-04-23 08:22:11'),
-(3, 'omen humanoid', 'ecd20022@tezu.ac.in', 'Dorothy Das', 'ECD20022', 'ECE', '2022-04-26 06:06:17'),
-(4, 'Sadge', 'csi21003@tezu.ac.in', 'Chanakya Basumatary', 'CSI21003', 'CSE', '2022-04-28 08:36:30'),
-(5, 'Binary minds', 'ecb20014@tezu.ac.in', 'Ronit Choudhury', 'ECB20014', 'Electronics and communication engineering', '2022-04-28 08:52:09'),
-(6, 'Gryffindor', 'ecb19036@tezu.ac.in', 'Binayak Karmakar', 'ECB19036', 'ECE', '2022-04-28 21:32:09');
 
---
 -- Indexes for dumped tables
 --
 

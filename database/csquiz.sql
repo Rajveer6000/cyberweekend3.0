@@ -41,9 +41,7 @@ CREATE TABLE `csquiz` (
 --
 
 INSERT INTO `csquiz` (`sno`, `name`, `email`, `rollno`, `dept`, `timestamp`) VALUES
-(2, 'ASHIMANANDA BHATTACHARJEE', 'csb19022@tezu.ac.in', 'CSB19022', 'COMPUTER SCIENCE AND ENGINEERING', '2022-04-29 10:41:55'),
-(3, 'Bijoy Mogor', 'cse20006@tezu.ac.in', 'CSE20006', 'CSE', '2022-04-29 15:57:13'),
-(4, 'Vinayak Pandey', 'csb19063@tezu.ac.in', 'CSB19063', 'CSE', '2022-04-29 17:35:57');
+
 
 --
 -- Indexes for dumped tables
