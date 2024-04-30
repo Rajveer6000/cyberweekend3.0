@@ -7260,6 +7260,7 @@ html.tablet .ui-to-top {
 	transform: rotate(0deg) scale(1);
 	opacity: 1;
 	visibility: visible;
+	
 }
 
 .rd-navbar-fixed .rd-navbar-search-toggle:hover {
@@ -7274,10 +7275,15 @@ html.tablet .ui-to-top {
 
 .rd-navbar-fixed .rd-navbar-fixed-element-1 {
 	right: 0;
+	color: black;
+}
+.rd-navbar-fixed .rd-navbar-fixed-element-3 {
+	right: 50%;
 }
 
 .rd-navbar-fixed .rd-navbar-fixed-element-2 {
 	right: 46px;
+	color: black;
 }
 
 .rd-navbar-fixed.rd-navbar--is-clone {
